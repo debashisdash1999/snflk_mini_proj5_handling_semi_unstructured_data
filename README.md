@@ -1,4 +1,4 @@
-# snflk_mini_proj5_handling_semi_unstructured_data
+# snowflake_proj5_handling_semi_unstructured_data
 
 TASK 1:- Loading JSON Format Data into Snowflake
 
